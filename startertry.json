@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Makiwara",
+      "description": "Item for practicing karate"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "Cat",
+      "description": "Item with no practical purpose whatsoever"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "3",
+      "name": "Book",
+      "description": "Vessel for purveying knowledge and delight"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "4",
+      "name": "Apple",
+      "description": "The ideal fruit"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "5",
+      "name": "Tree",
+      "description": "Living thing that is overseen by Ents"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "6",
+      "name": "Taco",
+      "description": "Delicious food item"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Peter Wimsey",
+      "description": "Sugg of the evening, beautiful Sugg!",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Maia Drahjar",
+      "description": "I love chamomile tea and I do not particularly want to be emperor.",
+      "itemId": "3"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "3",
+      "name": "Guy Montag",
+      "description": "There must be something in books",
+      "itemId": "4"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "4",
+      "name": "Edmund Dantes",
+      "description": "I will have my revenge!",
+      "itemId": "5"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "bonnie's API",
+    "creator": "bonniebennet",
+    "about": "A collection of items or things or stuff",
+    "url": "https://www.jasonclark.info"
+  }
+}
